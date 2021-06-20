@@ -1,4 +1,5 @@
 logo: /assets/img/logo_full_grey.png
-description: Provides business data analytics and consultation.
+description: Provides business data analytics and consultation
+show_downloads: true
 google_analytics: G-PJYVERGYT3
 theme: jekyll-theme-minimal
