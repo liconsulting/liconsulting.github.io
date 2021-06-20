@@ -1,6 +1,6 @@
 title: 
 logo: /assets/img/logo_full_grey_rec.png
 description:
-show_downloads: true
+show_downloads: false
 google_analytics: G-PJYVERGYT3
 theme: jekyll-theme-minimal
