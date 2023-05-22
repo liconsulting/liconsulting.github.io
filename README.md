@@ -1,6 +1,6 @@
-# LI Consulting GitHub
+## LI Consulting GitHub
 
-** Unleash Potential. Empower Action. Drive Success. **
+**Unleash Potential. Empower Action. Drive Success.**
 
 ### Our Services
 
