@@ -2,6 +2,8 @@
 
 **Unleash Potential. Empower Action. Drive Success.**
 
+LI Consulting is dedicated to transforming data into actionable insights, optimizing business operations, and enabling smarter, faster decisions. With our expertise in operations, sales and marketing, business auditing, and education, we provide comprehensive solutions to meet your needs.
+
 ### Our Services
 
 - Operations
@@ -9,41 +11,10 @@
 - Business Auditing
 - Education
 
-LI Consulting is dedicated to transforming data into actionable insights, optimizing business operations, and enabling smarter, faster decisions. With our expertise in operations, sales and marketing, business auditing, and education, we provide comprehensive solutions to meet your needs.
+## Our Process
 
-### Markdown
+1. Strategize: We crystallize your vision and translate it into a strategic roadmap.
+2. Analyze: We engineer innovative solutions, grounded in robust frameworks and methodologies.
+3. Execute: We implement the strategic roadmap, ensuring seamless change management and tangible results.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liconsulting/liconsulting.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-
-
-
+In addition to our core offerings, LI Consulting also champions education development, with a particular focus on middle to secondary school students and institutions. We craft e-learning content, design online courses, and offer higher education planning and coaching services. These are all meticulously designed to guide students toward their goals.
