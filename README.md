@@ -1,8 +1,8 @@
-# Welcome to LI Consulting GitHub Pages
+# LI Consulting GitHub
 
-## Unleash Potential. Empower Action. Drive Success.
+** Unleash Potential. Empower Action. Drive Success. **
 
-At LI Consulting, we breathe life into your data. We unlock its hidden potential, transforming it into actionable insights that drive success. Through advanced data analytics, we equip you with the ability to optimize business operations, enhance efficiency, and make confident decisions swiftly and efficiently. Our mission is not only to deliver quick results but also to nurture your in-house capabilities, enabling you to wield your new-found data expertise with confidence.
+> At LI Consulting, we breathe life into your data. We unlock its hidden potential, transforming it into actionable insights that drive success. Through advanced data analytics, we equip you with the ability to optimize business operations, enhance efficiency, and make confident decisions swiftly and efficiently. Our mission is not only to deliver quick results but also to nurture your in-house capabilities, enabling you to wield your new-found data expertise with confidence.
 
 ## OUR SERVICES
 
