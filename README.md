@@ -1,7 +1,5 @@
 # LI Consulting GitHub
 
-## Unleash Potential. Empower Action. Drive Success.
-
 LI Consulting is dedicated to transforming data into actionable insights, optimizing business operations, and enabling smarter, faster decisions. With our expertise in operations, sales and marketing, business auditing, and education, we provide comprehensive solutions to meet your needs.
 
 ## Our Services
